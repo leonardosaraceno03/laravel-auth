@@ -31,7 +31,6 @@ class PostsController extends Controller
     {
         //
         return view('admin.posts.create');
-
     }
 
     /**
